@@ -1,0 +1,15 @@
+.center-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #190080;
+    margin: 30px;
+    padding: 50px;
+    width: 500px;
+}
+
+.center-item{
+    background-color: bisque;
+    margin: 10px;
+    padding: 40px;
+}
